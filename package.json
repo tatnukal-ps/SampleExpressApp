@@ -1,0 +1,22 @@
+{
+  "name": "sampleexpressapp",
+  "version": "1.0.0",
+  "description": "Sample Express Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavisuresh/SampleExpressApp.git"
+  },
+  "author": "Kavitha Suresh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavisuresh/SampleExpressApp/issues"
+  },
+  "homepage": "https://github.com/kavisuresh/SampleExpressApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
