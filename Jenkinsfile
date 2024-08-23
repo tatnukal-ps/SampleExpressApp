@@ -5,6 +5,7 @@ pipeline{
       steps{
         nodejs('Node'){
           echo 'Building Application.....'
+          sh 'npm install'
         }
       }
     }
